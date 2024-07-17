@@ -3,6 +3,15 @@
         "user": "God",
         "ip": "152.169.21.193",
         "serverName": "Test"
-    }
-	
+    },
+    {
+        "user": "CJ",
+        "ip": "181.1.96.95",
+        "serverName": "Server CJ"
+    },
+    {
+        "user": "Server Bastardos Live",
+        "ip": "104.234.7.50",
+        "serverName": "Server Bastardos"
+    }	
 ]
